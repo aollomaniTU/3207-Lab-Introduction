@@ -1,6 +1,10 @@
+
 #ifndef random_h  
 #define random_h
 
-char random();  
+#include <stdlib.h>
+
+char randchar();  
 
 #endif 
+
